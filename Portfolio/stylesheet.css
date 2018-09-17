@@ -1,0 +1,33 @@
+body {
+   background-image: url('images/abstracttexture.jpg');
+   
+}
+
+div.div1 {
+    background-color: lightgreen;
+}
+
+div.div2 {
+    background-color: lightyellow;
+}
+
+div.div3 {
+    background-color: thistle;
+}
+
+body{
+ color: darkred;
+}
+
+h1 {
+    color: white;
+}
+
+
+footer{
+    color: white;
+}
+
+li{
+    color: white;
+}
